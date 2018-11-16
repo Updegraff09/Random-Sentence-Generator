@@ -1,2 +1,2 @@
 # Random-Sentence-Generator
-Daily Java Fun Challenge 
+Daily Java Challenge 
